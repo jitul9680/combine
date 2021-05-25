@@ -17,7 +17,7 @@ from tensorflow.keras.preprocessing import image
 
 
 
-MODEL_PATH ='newmodel.h5'
+MODEL_PATH ='dense3.h5'
 
 # Load your trained model
 model = load_model(MODEL_PATH)
